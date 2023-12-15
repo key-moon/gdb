@@ -1,2 +1,4 @@
+.venv
 .gdb_*
+*.egg-info
 !.vscode
