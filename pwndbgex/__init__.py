@@ -1,2 +1,2 @@
 def load():
-  pass
+  import pwndbgex.commands.at
