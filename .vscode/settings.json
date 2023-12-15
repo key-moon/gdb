@@ -1,0 +1,8 @@
+{
+  "python.autoComplete.extraPaths": [
+    "./pwndbg"
+  ],
+  "python.analysis.extraPaths": [
+    "./pwndbg"
+  ]
+}
